@@ -1,4 +1,4 @@
-package com.Security.BasicSecurity;
+package com.Security.BasicSecurity.model;
 
 public class Student {
     private int id;
